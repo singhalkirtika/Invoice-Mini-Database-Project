@@ -18,7 +18,4 @@ After logging into the account, the sales person has the options of:
 **Other pages**
 
 ![customer](https://user-images.githubusercontent.com/25261181/46313340-3b6d4680-c5e5-11e8-86bc-212f93800507.PNG)
-![features](https://user-images.githubusercontent.com/25261181/46313423-74a5b680-c5e5-11e8-9173-688a7e35e310.PNG)
-
-
 
